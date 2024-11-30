@@ -1,2 +1,4 @@
 # swellbliss-demo
-This is my first repository.\nAuthor : Swell Bliss
+This is my first repository.
+<br>
+Author - SWELL BLISS
